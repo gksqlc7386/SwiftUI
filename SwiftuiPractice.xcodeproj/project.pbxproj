@@ -18,6 +18,7 @@
 		EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286832C4533570055FF88 /* IconsPractice.swift */; };
 		EDE286862C45366C0055FF88 /* ImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286852C45366C0055FF88 /* ImagePractice.swift */; };
 		EDE286882C4538B70055FF88 /* FramePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286872C4538B70055FF88 /* FramePractice.swift */; };
+		EDE2868A2C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		EDE286832C4533570055FF88 /* IconsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsPractice.swift; sourceTree = "<group>"; };
 		EDE286852C45366C0055FF88 /* ImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePractice.swift; sourceTree = "<group>"; };
 		EDE286872C4538B70055FF88 /* FramePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramePractice.swift; sourceTree = "<group>"; };
+		EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				EDE286832C4533570055FF88 /* IconsPractice.swift */,
 				EDE286852C45366C0055FF88 /* ImagePractice.swift */,
 				EDE286872C4538B70055FF88 /* FramePractice.swift */,
+				EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */,
 				EDBF0B842C43D833009FCEEE /* Assets.xcassets */,
 				EDBF0B862C43D833009FCEEE /* SwiftuiPractice.entitlements */,
 				EDBF0B872C43D833009FCEEE /* Preview Content */,
@@ -165,6 +168,7 @@
 				EDBF0B902C43D91D009FCEEE /* TextPractice.swift in Sources */,
 				EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */,
 				EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */,
+				EDE2868A2C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift in Sources */,
 				EDE286862C45366C0055FF88 /* ImagePractice.swift in Sources */,
 				EDBF0B922C43DED9009FCEEE /* ShapesPractice.swift in Sources */,
 				EDBF0B942C43E584009FCEEE /* ColorsPractice.swift in Sources */,
