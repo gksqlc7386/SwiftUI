@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED08DB052C46097B004B0AE7 /* StacksPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED08DB042C46097B004B0AE7 /* StacksPractice.swift */; };
 		EDBF0B812C43D831009FCEEE /* SwiftuiPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */; };
 		EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B822C43D831009FCEEE /* ContentView.swift */; };
 		EDBF0B852C43D833009FCEEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDBF0B842C43D833009FCEEE /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED08DB042C46097B004B0AE7 /* StacksPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksPractice.swift; sourceTree = "<group>"; };
 		EDBF0B7D2C43D831009FCEEE /* SwiftuiPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftuiPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiPracticeApp.swift; sourceTree = "<group>"; };
 		EDBF0B822C43D831009FCEEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				EDE286852C45366C0055FF88 /* ImagePractice.swift */,
 				EDE286872C4538B70055FF88 /* FramePractice.swift */,
 				EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */,
+				ED08DB042C46097B004B0AE7 /* StacksPractice.swift */,
 				EDBF0B842C43D833009FCEEE /* Assets.xcassets */,
 				EDBF0B862C43D833009FCEEE /* SwiftuiPractice.entitlements */,
 				EDBF0B872C43D833009FCEEE /* Preview Content */,
@@ -173,6 +176,7 @@
 				EDBF0B922C43DED9009FCEEE /* ShapesPractice.swift in Sources */,
 				EDBF0B942C43E584009FCEEE /* ColorsPractice.swift in Sources */,
 				EDBF0B812C43D831009FCEEE /* SwiftuiPracticeApp.swift in Sources */,
+				ED08DB052C46097B004B0AE7 /* StacksPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
