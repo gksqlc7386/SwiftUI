@@ -16,6 +16,7 @@
 		EDBF0B922C43DED9009FCEEE /* ShapesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B912C43DED9009FCEEE /* ShapesPractice.swift */; };
 		EDBF0B942C43E584009FCEEE /* ColorsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B932C43E584009FCEEE /* ColorsPractice.swift */; };
 		EDBF0B962C4419EF009FCEEE /* GradientPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B952C4419EF009FCEEE /* GradientPractice.swift */; };
+		EDC9ACB12C4A5FB3002E4A81 /* GridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC9ACB02C4A5FB3002E4A81 /* GridPractice.swift */; };
 		EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286832C4533570055FF88 /* IconsPractice.swift */; };
 		EDE286862C45366C0055FF88 /* ImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286852C45366C0055FF88 /* ImagePractice.swift */; };
 		EDE286882C4538B70055FF88 /* FramePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE286872C4538B70055FF88 /* FramePractice.swift */; };
@@ -34,6 +35,7 @@
 		EDBF0B912C43DED9009FCEEE /* ShapesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesPractice.swift; sourceTree = "<group>"; };
 		EDBF0B932C43E584009FCEEE /* ColorsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsPractice.swift; sourceTree = "<group>"; };
 		EDBF0B952C4419EF009FCEEE /* GradientPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientPractice.swift; sourceTree = "<group>"; };
+		EDC9ACB02C4A5FB3002E4A81 /* GridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPractice.swift; sourceTree = "<group>"; };
 		EDE286832C4533570055FF88 /* IconsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsPractice.swift; sourceTree = "<group>"; };
 		EDE286852C45366C0055FF88 /* ImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePractice.swift; sourceTree = "<group>"; };
 		EDE286872C4538B70055FF88 /* FramePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramePractice.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				EDE286872C4538B70055FF88 /* FramePractice.swift */,
 				EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */,
 				ED08DB042C46097B004B0AE7 /* StacksPractice.swift */,
+				EDC9ACB02C4A5FB3002E4A81 /* GridPractice.swift */,
 				EDBF0B842C43D833009FCEEE /* Assets.xcassets */,
 				EDBF0B862C43D833009FCEEE /* SwiftuiPractice.entitlements */,
 				EDBF0B872C43D833009FCEEE /* Preview Content */,
@@ -168,6 +171,7 @@
 			files = (
 				EDBF0B962C4419EF009FCEEE /* GradientPractice.swift in Sources */,
 				EDE286882C4538B70055FF88 /* FramePractice.swift in Sources */,
+				EDC9ACB12C4A5FB3002E4A81 /* GridPractice.swift in Sources */,
 				EDBF0B902C43D91D009FCEEE /* TextPractice.swift in Sources */,
 				EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */,
 				EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */,
