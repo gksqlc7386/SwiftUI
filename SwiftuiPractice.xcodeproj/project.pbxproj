@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		ED08DB052C46097B004B0AE7 /* StacksPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED08DB042C46097B004B0AE7 /* StacksPractice.swift */; };
+		ED30FA552C4DEE8900C71F88 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED30FA542C4DEE8900C71F88 /* StatePractice.swift */; };
 		EDBF0B812C43D831009FCEEE /* SwiftuiPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */; };
 		EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B822C43D831009FCEEE /* ContentView.swift */; };
 		EDBF0B852C43D833009FCEEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDBF0B842C43D833009FCEEE /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		ED08DB042C46097B004B0AE7 /* StacksPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksPractice.swift; sourceTree = "<group>"; };
+		ED30FA542C4DEE8900C71F88 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		EDBF0B7D2C43D831009FCEEE /* SwiftuiPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftuiPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiPracticeApp.swift; sourceTree = "<group>"; };
 		EDBF0B822C43D831009FCEEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				EDE286892C456A2D0055FF88 /* BackgroundAndOverlayPractice.swift */,
 				ED08DB042C46097B004B0AE7 /* StacksPractice.swift */,
 				EDC9ACB02C4A5FB3002E4A81 /* GridPractice.swift */,
+				ED30FA542C4DEE8900C71F88 /* StatePractice.swift */,
 				EDBF0B842C43D833009FCEEE /* Assets.xcassets */,
 				EDBF0B862C43D833009FCEEE /* SwiftuiPractice.entitlements */,
 				EDBF0B872C43D833009FCEEE /* Preview Content */,
@@ -172,6 +175,7 @@
 				EDBF0B962C4419EF009FCEEE /* GradientPractice.swift in Sources */,
 				EDE286882C4538B70055FF88 /* FramePractice.swift in Sources */,
 				EDC9ACB12C4A5FB3002E4A81 /* GridPractice.swift in Sources */,
+				ED30FA552C4DEE8900C71F88 /* StatePractice.swift in Sources */,
 				EDBF0B902C43D91D009FCEEE /* TextPractice.swift in Sources */,
 				EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */,
 				EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */,
