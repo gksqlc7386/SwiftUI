@@ -12,6 +12,7 @@
 		ED30FA572C4DF1D500C71F88 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED30FA562C4DF1D500C71F88 /* BindingPractice.swift */; };
 		ED30FA592C4E47FE00C71F88 /* ViewModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED30FA582C4E47FE00C71F88 /* ViewModelPractice.swift */; };
 		ED30FA5B2C4E4B3400C71F88 /* OnAppearPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED30FA5A2C4E4B3400C71F88 /* OnAppearPractice.swift */; };
+		ED30FA5D2C4E6F8700C71F88 /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED30FA5C2C4E6F8700C71F88 /* NavigationViewPractice.swift */; };
 		EDBF0B812C43D831009FCEEE /* SwiftuiPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */; };
 		EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBF0B822C43D831009FCEEE /* ContentView.swift */; };
 		EDBF0B852C43D833009FCEEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDBF0B842C43D833009FCEEE /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		ED30FA562C4DF1D500C71F88 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		ED30FA582C4E47FE00C71F88 /* ViewModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelPractice.swift; sourceTree = "<group>"; };
 		ED30FA5A2C4E4B3400C71F88 /* OnAppearPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearPractice.swift; sourceTree = "<group>"; };
+		ED30FA5C2C4E6F8700C71F88 /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
 		EDBF0B7D2C43D831009FCEEE /* SwiftuiPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftuiPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDBF0B802C43D831009FCEEE /* SwiftuiPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiPracticeApp.swift; sourceTree = "<group>"; };
 		EDBF0B822C43D831009FCEEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				EDC9ACB02C4A5FB3002E4A81 /* GridPractice.swift */,
 				ED30FA542C4DEE8900C71F88 /* StatePractice.swift */,
 				ED30FA562C4DF1D500C71F88 /* BindingPractice.swift */,
+				ED30FA5C2C4E6F8700C71F88 /* NavigationViewPractice.swift */,
 				ED30FA5A2C4E4B3400C71F88 /* OnAppearPractice.swift */,
 				ED30FA582C4E47FE00C71F88 /* ViewModelPractice.swift */,
 				EDBF0B842C43D833009FCEEE /* Assets.xcassets */,
@@ -187,6 +190,7 @@
 				EDC9ACB12C4A5FB3002E4A81 /* GridPractice.swift in Sources */,
 				ED30FA552C4DEE8900C71F88 /* StatePractice.swift in Sources */,
 				ED30FA572C4DF1D500C71F88 /* BindingPractice.swift in Sources */,
+				ED30FA5D2C4E6F8700C71F88 /* NavigationViewPractice.swift in Sources */,
 				EDBF0B902C43D91D009FCEEE /* TextPractice.swift in Sources */,
 				EDBF0B832C43D831009FCEEE /* ContentView.swift in Sources */,
 				EDE286842C4533570055FF88 /* IconsPractice.swift in Sources */,
